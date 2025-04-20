@@ -1,4 +1,5 @@
 discord.py
+coc.py
 pytz
 python-dotenv
 aiohttp
