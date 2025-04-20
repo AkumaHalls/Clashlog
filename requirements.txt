@@ -1,5 +1,4 @@
 discord.py
-python-clashofclans
 pytz
 python-dotenv
 aiohttp
